@@ -1,7 +1,7 @@
 require("dotenv").config();
 
-const PORT = process.env.PORT || 443;
-const HOST = process.env.HOSTNAME || "testnodeweb-erf3exc0bnchhdb5.eastus-01.azurewebsites.net";
+const PORT = process.env.PORT || 3000;
+const HOST = process.env.HOSTNAME || "127.0.0.1";
 
 const path = require("path");
 const hbs = require("hbs");
