@@ -1,0 +1,16 @@
+complaint,category
+"Billing error on my last invoice",Billing
+"Internet is slow and disconnects often",Internet
+"Agent was rude and unhelpful",CustomerService
+"Charged twice for cable service",Billing
+"Frequent outages in my area",Internet
+"Billing statement is confusing",Billing
+"Can't reach customer support",CustomerService
+"Streaming is buffering all the time",Internet
+"Unexpected fees added to bill",Billing
+"Representative hung up on me",CustomerService
+"Internet cuts out during the day",Internet
+"Overcharged for equipment",Billing
+"Service technician never arrived",CustomerService
+"Wi-Fi speed is much slower than promised",Internet
+"Billing department lost my payment",Billing
